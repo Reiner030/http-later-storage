@@ -2,9 +2,14 @@
   "name": "http-later-storage",
   "version": "0.0.1",
   "description": "common storage interface for http-later server",
-  "main": "index.js",
+  "main": "http-later-storage.js",
   "dependencies": {
     "propertize": "^2"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "expect.js": "*",
+    "sinon": "*"
   },
   "repository": {
     "type": "git",
