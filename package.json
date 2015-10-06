@@ -1,6 +1,6 @@
 {
   "name": "http-later-storage",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "common storage interface for http-later server",
   "main": "http-later-storage.js",
   "dependencies": {
